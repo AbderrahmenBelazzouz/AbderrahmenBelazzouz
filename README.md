@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am Abderrahmen. I am a university student from Algeria and I am attend Higher School in Computer Science of Sidi Bel Abbès, where I study the specialty: information systems and the web.
+I am **Abderrahmen**. I am a university student from Algeria and I am attend Higher School in Computer Science of Sidi Bel Abbès, where I study the specialty: information systems and the web.
 
 ### ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
-- 🔭 I’m currently working on Spring Boot Web App
+- 🔭 I’m currently working on **Spring Boot Web App**
 - 👯 I’m looking to collaborate on any project to learn
-- 🤔 I’m looking for help to learn Oracle Database
-- 🧿 I also plan to learn JHipster and Golang
+- 🤔 I’m looking for help to learn **Oracle Database**
+- 🧿 I also plan to learn **JHipster** and **Golang**
 
 ### 📫 How to reach me:
 
