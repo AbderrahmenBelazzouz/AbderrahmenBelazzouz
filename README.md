@@ -13,9 +13,9 @@ I am **Abderrahmen**. I am a university student from Algeria and I am attend Hig
 ### 📫 How to reach me:
 
 <p align="left">
-<a href="https://twitter.com/4b_be" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbderrahmenBlz" height="30" width="40" /></a>
+<a href="https://twitter.com/AbderrahmenBlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbderrahmenBlz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abderrahmenbelazzouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmen belazzouz" height="30" width="40" /></a>
-<a href="https://instagram.com/ab_yis_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ab_yis_2" height="30" width="40" /></a>
+<a href="https://instagram.com/abderrahmen_blz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abderrahmen_blz" height="30" width="40" /></a>
 <a href="https://dev.to/abderrahmenbelazzouz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abderrahmenbelazzouz" height="30" width="40" /></a>
 </p>
 
