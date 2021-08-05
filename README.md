@@ -12,6 +12,10 @@ I am **Abderrahmen**. I am a university student from Algeria and I am attend Hig
 
 ### 📫 How to reach me:
 
+**My mail :** **a.belazzouz@esi-sba.dz**
+
+**My social media :**
+
 <p align="left">
 <a href="https://twitter.com/AbderrahmenBlz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AbderrahmenBlz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abderrahmenbelazzouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abderrahmen belazzouz" height="30" width="40" /></a>
