@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am **Abderrahmen**. I am a university student from Algeria and I am attend Higher School in Computer Science of Sidi Bel Abbès, where I study the specialty: information systems and the web.
+I am **Abderrahmen**. I am a university student from Algeria and I am attend Higher School in Computer Science of Sidi Bel Abbès, where I study the specialty: information systems and web technologies.
 
 ### ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 
