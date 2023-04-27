@@ -19,7 +19,6 @@ I'm also a blockchain enthusiast!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbderrahmenBelazzouz&label=Profile%20views&color=EE3712&style=flat" alt="AbderrahmenBelazzouz" /> </p>
 
-<p align="left"> <a href="https://twitter.com/AbderrahmenBlz" target="blank"><img src="https://img.shields.io/twitter/follow/AbderrahmenBlz?logo=twitter&style=for-the-badge" alt="AbderrahmenBlz" /> </a> </p>
 
 **My social media :**
 
