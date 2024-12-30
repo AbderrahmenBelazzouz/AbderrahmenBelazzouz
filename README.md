@@ -7,7 +7,8 @@ I am **Abderrahmen**. I am a computer science engineer - Business Intelligence C
 
 ### 📫 How to reach me:
 
-**My mail :** **a.belazzouz@esi-sba.dz**
+**My mail :** **a.belazzouz@esi-sba.dz** & **ab.belazzouz@gmail.com**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbderrahmenBelazzouz&label=Profile%20views&color=EE3712&style=flat" alt="AbderrahmenBelazzouz" /> </p>
 
