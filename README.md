@@ -3,14 +3,6 @@
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 I am **Abderrahmen**. I am a computer science engineer - Business Intelligence Consultant - from Algeria and I went to the Higher School in Computer Science of Sidi Bel Abbès, where I studied the specialty: information systems and web technologies.
 
-I'm also a blockchain enthusiast!
-
-### ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-
-<!-- - 🔭 I’m currently working on **Spring Boot Web App** -->
-- 👯 I’m looking to collaborate on any project to learn
-- 🏷 **Information system & web development**
-- 🧿 I also plan to learn **Solidity** and **Golang**
 
 
 ### 📫 How to reach me:
