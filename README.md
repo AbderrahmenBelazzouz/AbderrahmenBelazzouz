@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am **Abderrahmen**. I am a computer science engineer - Business Intelligence Consultant - from Algeria and I went to the Higher School in Computer Science of Sidi Bel Abbès, where I studied the specialty: information systems and web technologies.
+I am **Abderrahmen**. I am a computer science engineer - Business Intelligence Consultant -.
 
 
 
