@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-I am **Abderrahmen**. I am a computer science engineer - Business Intelligence Consultant -.
+I am **Abderrahmen**. I am a Data Analyst - Business Intelligence Consultant -.
 
 
 
